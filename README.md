@@ -8,9 +8,13 @@ Nombre del proyecto: Aplicación de gestión de tareas
 Objetivo: Desarrollar una app que permita a los usuarios organizar sus actividades diarias de forma intuitiva, eficiente y accesible desde dispositivos móviles.
 
 👨‍💻 Integrante del equipo
-Andrés Eduardo Navidad Florew NF220677
-Evelyn Marisol Sandoval Guillén SG210007
-Gustavo Enrique Martinez Hernandez MH 180755
-David Isaac Segura Sánchez
+### 👥 Integrantes del proyecto
+
+| Nombre completo                          | Código     |
+|------------------------------------------|------------|
+| Andrés Eduardo Navidad Florew            | NF220677   |
+| Evelyn Marisol Sandoval Guillén          | SG210007   |
+| Gustavo Enrique Martínez Hernández       | MH180755   |
+| David Isaac Segura Sánchez               | SS231442   |
 
 El codigo fuente de la Aplicacion esta en la rama llamada: Investigacion1
